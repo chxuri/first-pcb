@@ -1,5 +1,6 @@
 # first-pcb
 led pcb that i made in acon's workshop!
+lights up two leds when one button is pressed and vibrates when another button is pressed!
 
 slack username: @Rimma
 
